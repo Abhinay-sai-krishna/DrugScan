@@ -1,0 +1,5 @@
+{
+  "name": "DrugScan",
+  "description": "This project analyzes drug interactions, verifies correct dosages, and provides safe alternative medications using AI models. It integrates IBM Watson APIs, Hugging Face NLP models, and medical datasets for accurate prescription verification.",
+  "requestFramePermissions": []
+}
